@@ -32,7 +32,7 @@ deployKF:
   gateway:
     name: "deploykf-gateway"
     selectorLabels: {"app":"deploykf-gateway","istio":"deploykf-gateway"}
-    hostname: "deploykf.example.com"
+    hostname: "kubeflow.42can.org"
     ports:
       http: 8080
       https: 8443
