@@ -99,6 +99,11 @@ centralDashboard:
         text: Minio Console
         icon: cloud
         link: "https://minio-console.kubeflow.42can.org:8443"
+      - type: item
+        iframe: false
+        text: "EscherCloudAI Docs"
+        icon: "launch"
+        link: "https://docs.eschercloud.ai"
 
     ## quick action links that appear in the home page
     ##
