@@ -65,7 +65,7 @@ profileDefaults:
 
   ## the default email to set as the owner of profiles
   ##
-  ownerEmail: "admin@example.com"
+  ownerEmail: "nick@42can.org"
 
   ## the default access for members of profiles, when not explicitly specified
   ##
