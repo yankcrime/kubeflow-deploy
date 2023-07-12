@@ -118,9 +118,9 @@ centralDashboard:
     ## documentation links that appear in the home page
     ##
     documentationItems:
-      - text: deployKF Website
-        desc: The tool that deployed your ML platform!
-        link: https://github.com/deployKF/deployKF
+      - text: "EscherCloudAI Docs"
+        desc: "ECAI service documentation"
+        link: "https://docs.eschercloud.ai"
       - text: Kubeflow Pipelines Documentation
         desc: Documentation for Kubeflow Pipelines
         link: https://www.kubeflow.org/docs/components/pipelines/
